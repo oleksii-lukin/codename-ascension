@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@clerk/shared'
+  - '@parcel/watcher'
+  - '@sentry/cli'
+  - esbuild
+  - sharp
+  - unrs-resolver
